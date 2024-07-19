@@ -10,7 +10,7 @@ I am a Chartered ACCA Accountant with a robust foundation in finance and account
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,discord,gitHub,pycharm,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,discord,github,pycharm,tensorflow)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
